@@ -2,6 +2,7 @@ local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/VOID65
 
 local UI = WindUI:CreateWindow({
     Title = "Пример интерфейса",
-    Theme = "Dark",
+    Theme = "Lavender",
     CanDraggable = true,
+    transparency = 0.5,
 })
